@@ -8,9 +8,9 @@
             "type": "word"
         }
     },
-    "train_data_path": "C:/Users/ACLIMBER/Desktop/Data/atomic_data/train_dense.csv",
-    "validation_data_path": "C:/Users/ACLIMBER/Desktop/Data/atomic_data/dev_dense.csv",
-    "test_data_path": "C:/Users/ACLIMBER/Desktop/Data/atomic_data/test_dense.csv",
+    "train_data_path": "C:/Users/Dell/Desktop/Data/atomic_data/train_dense.csv",
+    "validation_data_path": "C:/Users/Dell/Desktop/Data/atomic_data/dev_dense.csv",
+    "test_data_path": "C:/Users/Dell/Desktop/Data/atomic_data/test_dense.csv",
     "evaluate_on_test": true,
     "model": {
         "type": "atomic",

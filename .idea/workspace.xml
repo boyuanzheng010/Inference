@@ -30,6 +30,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\Inference" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="check_env" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Inference" />
@@ -92,22 +97,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576169662725" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1576169093050">
+    <state width="1259" height="140" key="GridCell.Tab.0.bottom" timestamp="1576170235411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576169093050" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1576169093049">
+    <state width="1259" height="140" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
+    <state width="1259" height="140" key="GridCell.Tab.0.center" timestamp="1576170235411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576169093049" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1576169093049">
+    <state width="1259" height="140" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
+    <state width="1259" height="140" key="GridCell.Tab.0.left" timestamp="1576170235411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576169093049" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1576169093049">
+    <state width="1259" height="140" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
+    <state width="1259" height="140" key="GridCell.Tab.0.right" timestamp="1576170235411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576169093049" />
+    <state width="1259" height="140" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
     <state x="72" y="0" key="SettingsEditor" timestamp="1576169673945">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
