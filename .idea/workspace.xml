@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c3feef6-79e0-4db1-9370-93a15f423399" name="Default Changelist" comment="" />
+    <list default="true" id="5c3feef6-79e0-4db1-9370-93a15f423399" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging/individual_oReact_1/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging/individual_oReact_1/log/train/events.out.tfevents.1576170529.DESKTOP-24QRA9P" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging/individual_oReact_1/log/validation/events.out.tfevents.1576170529.DESKTOP-24QRA9P" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging/individual_oReact_1/vocabulary/non_padded_namespaces.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging/individual_oReact_1/vocabulary/tokens.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,26 +100,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1576167748519" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1576169662725">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1576335592263">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576169662725" />
-    <state width="1259" height="140" key="GridCell.Tab.0.bottom" timestamp="1576170235411">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1576335592263" />
+    <state width="1259" height="140" key="GridCell.Tab.0.bottom" timestamp="1576192790855">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
-    <state width="1259" height="140" key="GridCell.Tab.0.center" timestamp="1576170235411">
+    <state width="1259" height="140" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576192790855" />
+    <state width="1259" height="140" key="GridCell.Tab.0.center" timestamp="1576192790855">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
-    <state width="1259" height="140" key="GridCell.Tab.0.left" timestamp="1576170235411">
+    <state width="1259" height="140" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576192790854" />
+    <state width="1259" height="140" key="GridCell.Tab.0.left" timestamp="1576192790854">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
-    <state width="1259" height="140" key="GridCell.Tab.0.right" timestamp="1576170235411">
+    <state width="1259" height="140" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576192790854" />
+    <state width="1259" height="140" key="GridCell.Tab.0.right" timestamp="1576192790855">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="140" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576170235411" />
+    <state width="1259" height="140" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576192790855" />
     <state x="72" y="0" key="SettingsEditor" timestamp="1576169673945">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
